@@ -33,279 +33,297 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The gospelles of dystauesEvangiles des quenouilles. English.1510Approx. 93 KB of XML-encoded text tr
+Isengryne. dame AbūdeTHere ben many men at this daye the whiche alleggeth and groūdeth theyr wordes / & reasons on the g
 #####Body#####
 
-1. ¶Here begynneth the fyrst chapytre of the gospell of dame Isengryne of Glay for the mondaye.
+1. ¶The names of the ladyes that made the texte of the gospelles of the dystaues.
 
-1. ¶The seconde chapytre.
+1. ¶Who was the fyrste woman that put forth the gospelles. And how the composer of this boke was constrayned to make this werke.
 
-1. ¶The thyrde chapytre.
+1. ¶The ordynaunce of this boke put in termes by dame Isengryne.
 
-1. ¶The .iiii. chapytre.
+1. ¶The ordynaunce of the fyrst daye / & of the descrypcyon of dame Isengryne of Glaye & what she was.
 
-1. ¶The .v. chapytre.
+    _ ¶Here begynneth the fyrst chapytre of the gospell of dame Isengryne of Glay for the mondaye.
 
-1. ¶The .vi. chapytre.
+    _ ¶The seconde chapytre.
 
-1. ¶The .vii. chapytre.
+    _ ¶The thyrde chapytre.
 
-1. ¶The .viii. chapytre.
+    _ ¶The .iiii. chapytre.
 
-1. ¶The .ix. chapytre.
+    _ ¶The .v. chapytre.
 
-1. ¶The .x. chapytre.
+    _ ¶The .vi. chapytre.
 
-1. ¶The .xi. chapytre.
+    _ ¶The .vii. chapytre.
 
-1. ¶The .xii. chapytre.
+    _ ¶The .viii. chapytre.
 
-1. ¶The .xiii. chapytre.
+    _ ¶The .ix. chapytre.
 
-1. ¶The .xiiii. chapytre.
+    _ ¶The .x. chapytre.
 
-1. ¶The .xv. chapytre
+    _ ¶The .xi. chapytre.
 
-1. ¶The .xvi. chapytre.
+    _ ¶The .xii. chapytre.
 
-1. ¶The .xvii. chapytre.
+    _ ¶The .xiii. chapytre.
 
-1. ¶ The .xviii. chapytre.
+    _ ¶The .xiiii. chapytre.
 
-1. ¶The .xix. chapytre.
+    _ ¶The .xv. chapytre
 
-1. ¶The .xx. chapytre.
+    _ ¶The .xvi. chapytre.
 
-1. ¶The .xxi. chapytre.
+    _ ¶The .xvii. chapytre.
 
-1. ¶The .xxii· chapytre.
+    _ ¶ The .xviii. chapytre.
 
-1. ¶The .xxiii. chapytre.
+    _ ¶The .xix. chapytre.
 
-1. ¶The .xxiiii. chapytre.
+    _ ¶The .xx. chapytre.
 
-1. ¶The .xxv. chapytre.
+    _ ¶The .xxi. chapytre.
 
-1. ¶ The .xxvi. chapytre.
+    _ ¶The .xxii· chapytre.
 
-1. ¶ The fyrſt chapytre.
+    _ ¶The .xxiii. chapytre.
 
-1. ¶The seconde chapytre.
+    _ ¶The .xxiiii. chapytre.
 
-1. ¶The thyrde chapytre.
+    _ ¶The .xxv. chapytre.
 
-1. ¶The fourth chapytre.
+    _ ¶ The .xxvi. chapytre.
 
-1. ¶The .v. chapytre.
+1. ¶ Here foloweth the contynuacyon of the goſpelles made & redde by dame Tranſelin of the croke for the teweſdaye in the houſe and at the houre accuſtomed.
 
-1. ¶The .vi. chapytre.
+    _ ¶ The fyrſt chapytre.
 
-1. ¶The .vii. chapytre.
+    _ ¶The seconde chapytre.
 
-1. ¶The .viii. chapytre.
+    _ ¶The thyrde chapytre.
 
-1. ¶The .ix. chapytre.
+    _ ¶The fourth chapytre.
 
-1. ¶The .x. chapytre.
+    _ ¶The .v. chapytre.
 
-1. ¶The .xi. chapytre.
+    _ ¶The .vi. chapytre.
 
-1. ¶The .xii. chapytre.
+    _ ¶The .vii. chapytre.
 
-1. ¶The .xiii. chapytre.
+    _ ¶The .viii. chapytre.
 
-1. ¶The .xiiii. chapytre.
+    _ ¶The .ix. chapytre.
 
-1. ¶The .xv. chapytre.
+    _ ¶The .x. chapytre.
 
-1. ¶The .xvi. chapytre.
+    _ ¶The .xi. chapytre.
 
-1. ¶The .xvii. chapytre.
+    _ ¶The .xii. chapytre.
 
-1. ¶The .xviii. chapytre.
+    _ ¶The .xiii. chapytre.
 
-1. ¶The .xx. chapytre.
+    _ ¶The .xiiii. chapytre.
 
-1. ¶The .xxi. chapytre.
+    _ ¶The .xv. chapytre.
 
-1. ¶The .xxii. chapytre.
+    _ ¶The .xvi. chapytre.
 
-1. ¶The .xxiii. chapytre.
+    _ ¶The .xvii. chapytre.
 
-1. ¶The .xxiiii. chapytre.
+    _ ¶The .xviii. chapytre.
 
-1. ¶The conclusyon of this Iourney.
+    _ ¶The .xx. chapytre.
 
-1. ¶The fyrst chapytre.
+    _ ¶The .xxi. chapytre.
 
-1. ¶The seconde chapytre.
+    _ ¶The .xxii. chapytre.
 
-1. ¶The thyrde chapytre.
+    _ ¶The .xxiii. chapytre.
 
-1. ¶The fourth chapytre.
+    _ ¶The .xxiiii. chapytre.
 
-1. ¶The .v. chapytre.
+    _ ¶The conclusyon of this Iourney.
 
-1. ¶The syxte chapytre.
+1. ¶Here foloweth the contynuacyon of the gospelles of dystaues / made the wednesday at nyght by dame Abūde of the ouen.
 
-1. ¶The .vii. chapytre.
+    _ ¶The fyrst chapytre.
 
-1. ¶The .viii. chapytre.
+    _ ¶The seconde chapytre.
 
-1. ¶The .ix. chapytre.
+    _ ¶The thyrde chapytre.
 
-1. ¶The .x. chapytre.
+    _ ¶The fourth chapytre.
 
-1. ¶The .xi. chapytre.
+    _ ¶The .v. chapytre.
 
-1. ¶The .xii. chapytre.
+    _ ¶The syxte chapytre.
 
-1. ¶The .xiii. chapytre.
+    _ ¶The .vii. chapytre.
 
-1. ¶The .xiiii. chapytre.
+    _ ¶The .viii. chapytre.
 
-1. ¶The thyrde chapytre.
+    _ ¶The .ix. chapytre.
 
-1. ¶The fourth chapytre.
+    _ ¶The .x. chapytre.
 
-1. ¶The .v. chapytre.
+    _ ¶The .xi. chapytre.
 
-1. ¶The .vi. chapytre.
+    _ ¶The .xii. chapytre.
 
-1. ¶The .xix. chapytre.
+    _ ¶The .xiii. chapytre.
 
-1. ¶The .xx. chapytre.
+    _ ¶The .xiiii. chapytre.
+¶The thyrde chapytre.¶He that knoweth carnally his gossep at his request may neuer entre in to parad
+    _ ¶The thyrde chapytre.
 
-1. ¶The .xxi. chapytre.
+    _ ¶The fourth chapytre.
 
-1. ¶The conclusyon of this Iourneye.
+    _ ¶The .v. chapytre.
 
-1. ¶The fyrste chapytre.
+    _ ¶The .vi. chapytre.
 
-1. ¶The seconde chapytre.
+    _ ¶The .xix. chapytre.
 
-1. ¶The .xv. chapytre.
+    _ ¶The .xx. chapytre.
 
-1. ¶The .xvi. chapytre.
+    _ ¶The .xxi. chapytre.
 
-1. ¶The .xvii. chapytre.
+    _ ¶The conclusyon of this Iourneye.
 
-1. ¶The .xviii. chapytre.
-this artycle I byleue well / for god may neuer vpon the ryghte of another / and after he pardonneth 
-1. ¶The .vii. chapytre
+1. ¶Here after enseweth the conteynyng of the gospelles redde by dame Sebylle of the marreys the thursday at nyght.
 
-1. ¶The .viii. chapytre.
+    _ ¶The fyrste chapytre.
 
-1. ¶The .ix. chapytre.
+    _ ¶The seconde chapytre.
 
-1. ¶The .x. chapytre.
+    _ ¶The .xv. chapytre.
 
-1. ¶The .vi. chapytre.
+    _ ¶The .xvi. chapytre.
 
-1. ¶The .xii. chapytre.
+    _ ¶The .xvii. chapytre.
 
-1. ¶The .xiii. chapytre.
+    _ ¶The .xviii. chapytre.
+this artycle I byleue well / for god may neuer vpon the ryghte of another / and after he pardonneth this artycle I byleue well / for god may neuer vpon the ryghte of another / and after he pardonneth 
+    _ ¶The .vii. chapytre
 
-1. ¶The .xiiii. chapytre.
+    _ ¶The .viii. chapytre.
 
-1. ¶The .xv. chapytre.
+    _ ¶The .ix. chapytre.
 
-1. ¶The .xvi. chapytre.
+    _ ¶The .x. chapytre.
 
-1. ¶The .xvii. chapytre.
+    _ ¶The .vi. chapytre.
 
-1. ¶The .xviii. chapytre.
+    _ ¶The .xii. chapytre.
 
-1. ¶The .xix. chapytre.
+    _ ¶The .xiii. chapytre.
 
-1. ¶The .xx. chapytre.
+    _ ¶The .xiiii. chapytre.
 
-1. ¶The .xxi. chapytre.
+    _ ¶The .xv. chapytre.
 
-1. ¶The .xxii. chapytre.
+    _ ¶The .xvi. chapytre.
 
-1. ¶The .xxiii. chapytre.
+    _ ¶The .xvii. chapytre.
 
-1. ¶The conclusyon of the thursday.
+    _ ¶The .xviii. chapytre.
 
-1. ¶The fyrst chapytre.
+    _ ¶The .xix. chapytre.
 
-1. ¶The seconde chapytre.
+    _ ¶The .xx. chapytre.
 
-1. ¶The thyrde chapytre.
+    _ ¶The .xxi. chapytre.
 
-1. ¶The fourth chapytre.
+    _ ¶The .xxii. chapytre.
 
-1. ¶The .v. chapytre.
+    _ ¶The .xxiii. chapytre.
 
-1. ¶The .vi. chapytre.
+    _ ¶The conclusyon of the thursday.
 
-1. ¶The .vii. chapytre.
+1. ¶The contynuacyon of the Iourney of frydaye made by dame Gonbarde the face.
 
-1. ¶The .viii. chapytre.
+    _ ¶The fyrst chapytre.
 
-1. ¶The .ix. chapytre.
+    _ ¶The seconde chapytre.
 
-1. ¶The .x. chapytre.
+    _ ¶The thyrde chapytre.
 
-1. ¶The .xi. chapytre.
+    _ ¶The fourth chapytre.
 
-1. ¶The .xii. chapytre.
+    _ ¶The .v. chapytre.
 
-1. ¶The .xiii. chapytre.
+    _ ¶The .vi. chapytre.
 
-1. ¶The .xiiii. chapytre.
+    _ ¶The .vii. chapytre.
 
-1. ¶The .xv. chapytre.
+    _ ¶The .viii. chapytre.
 
-1. ¶The .xvi. chapytre.
+    _ ¶The .ix. chapytre.
 
-1. ¶The .xvii. chapytre.
+    _ ¶The .x. chapytre.
 
-1. ¶The .xviii. chapytre.
+    _ ¶The .xi. chapytre.
 
-1. ¶The .xix. chapytre.
+    _ ¶The .xii. chapytre.
 
-1. ¶The .xx. chapytre.
+    _ ¶The .xiii. chapytre.
 
-1. ¶The conclusyon of the Iourneye of Frydaye.
+    _ ¶The .xiiii. chapytre.
 
-1. ¶The fyrst chapytre.
+    _ ¶The .xv. chapytre.
 
-1. ¶The seconde chapytre.
+    _ ¶The .xvi. chapytre.
 
-1. ¶The thyrde chapytre.
+    _ ¶The .xvii. chapytre.
 
-1. ¶The fourth chapytre.
+    _ ¶The .xviii. chapytre.
 
-1. ¶The .v. chapytre.
+    _ ¶The .xix. chapytre.
 
-1. ¶The .vi. chapytre.
+    _ ¶The .xx. chapytre.
 
-1. ¶The .vii. chapytre.
+    _ ¶The conclusyon of the Iourneye of Frydaye.
 
-1. ¶The .viii. chapytre.
+1. ¶The contynuacyon of the Iourneye of Saterdaye.
 
-1. ¶The .ix. chapytre.
+    _ ¶The fyrst chapytre.
 
-1. ¶The .x. chapytre.
+    _ ¶The seconde chapytre.
 
-1. ¶The .xi. chapytre.
+    _ ¶The thyrde chapytre.
 
-1. ¶The .xii. chapytre.
+    _ ¶The fourth chapytre.
 
-1. ¶The .xiii. chapytre.
+    _ ¶The .v. chapytre.
 
-1. ¶The .xiiii. chapytre.
+    _ ¶The .vi. chapytre.
 
-1. ¶The .xv. chapytre.
+    _ ¶The .vii. chapytre.
 
-1. ¶The .xvi. chapytre.
+    _ ¶The .viii. chapytre.
 
-1. ¶The conclusyon and excusynge of the auctour.
+    _ ¶The .ix. chapytre.
+
+    _ ¶The .x. chapytre.
+
+    _ ¶The .xi. chapytre.
+
+    _ ¶The .xii. chapytre.
+
+    _ ¶The .xiii. chapytre.
+
+    _ ¶The .xiiii. chapytre.
+
+    _ ¶The .xv. chapytre.
+
+    _ ¶The .xvi. chapytre.
+¶The conclusyon and excusynge of the auctour.YOu my lordes and also my ladyes that this lytell treat
+    _ ¶The conclusyon and excusynge of the auctour.
 
 #####Back#####
-The gospelles of dystauesEvangiles des quenouilles. English.1510Approx. 93 KB of XML-encoded text tr
+Enprynted at London in Flete strete at the sygne of the sonne by Wynkynde Worde.wynkyn .de. worde.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
